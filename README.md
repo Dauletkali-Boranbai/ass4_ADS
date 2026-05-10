@@ -41,7 +41,7 @@ Graph Size	BFS Time (ns)	DFS Time (ns)
 
 
 Screenshots
-
+![Results](screens/1.png)
 
 Reflection
 I learned how BFS and DFS work in practice.
